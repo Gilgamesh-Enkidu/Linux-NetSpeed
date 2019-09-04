@@ -4,3 +4,5 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 chmod +x tcp.sh
 ./tcp.sh
 ```
+
+![](http://yangwenqing.com/files/image/F6XveP.png)
